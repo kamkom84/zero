@@ -59,7 +59,7 @@ public class SlotMachine {
 		int calc = 1;
 		
 			do {
-				acc.Freebet();
+				acc.Freebet();  //method
 			
 					System.out.println();
 		
