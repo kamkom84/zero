@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Kamen Dimitrov/OneDrive/Documents/automationEclipse/selenuimWebDriver/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamen Dimitrov/OneDrive/Documents/automationEclipse/selenuimWebDriver/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamen Dimitrov/OneDrive/Documents/automationEclipse/selenuimWebDriver/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamen Dimitrov/OneDrive/Documents/automationEclipse/selenuimWebDriver/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamen Dimitrov/OneDrive/Documents/automationEclipse/selenuimWebDriver/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamen Dimitrov/OneDrive/Documents/automationEclipse/selenuimWebDriver/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamen Dimitrov/OneDrive/Documents/automationEclipse/selenuimWebDriver/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamen Dimitrov/OneDrive/Documents/automationEclipse/chromeDriver/chromedriver_win32.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Kamen Dimitrov/OneDrive/Documents/automationEclipse/videoRecorder/ATUTestRecorder_2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamen Dimitrov/OneDrive/Documents/automationEclipse/apache/commons-io-2.6-bin.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Kamen Dimitrov/OneDrive/Documents/automationEclipse/Apache Commons IO 2.8.0/commons-io-2.8.0/commons-io-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamen Dimitrov/OneDrive/Documents/automationEclipse/Apache Commons IO 2.8.0/commons-io-2.8.0/commons-io-2.8.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamen Dimitrov/OneDrive/Documents/automationEclipse/Apache Commons IO 2.8.0/commons-io-2.8.0/commons-io-2.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamen Dimitrov/OneDrive/Documents/automationEclipse/Apache Commons IO 2.8.0/commons-io-2.8.0/commons-io-2.8.0-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamen Dimitrov/OneDrive/Documents/automationEclipse/Apache Commons IO 2.8.0/commons-io-2.8.0/commons-io-2.8.0-test-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
