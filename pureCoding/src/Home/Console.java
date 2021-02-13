@@ -26,7 +26,7 @@ public class Console {
 		
 		
 		
-		String joint = "joint";
+		String joint = "jointtttt";
 		String tabaco = "tabaco";
 			if(consoleInput.equalsIgnoreCase(joint)) {
 				System.out.println("joint");
